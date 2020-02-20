@@ -22,6 +22,9 @@ Note that neither Tensorflow nor Keras (or the like) is used so that we code the
   - Convolutional Forward propagation
   - Pooling
   - Backward propagation (To do)
+  - Residual Network (To do)
+  - Inception Network (To do)
+  - You Only Look Once (To do)
   
 ### III. Recurrent Neural Network (To do)
   
