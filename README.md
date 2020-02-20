@@ -1,4 +1,4 @@
-# Deep_Neural_Network
+# Coding Deep Neural Network from scratch
 This git repository is designed to store my Jupyter code which sums up all theory (with Math and demonstration) and code of Deep Neural Network
 
 It shows how to build a Deep Neural Network from scratch, including all the Maths needed to understand what it does.
