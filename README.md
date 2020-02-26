@@ -14,7 +14,7 @@ For educational purposes, neither Tensorflow nor Keras (or the like) is used so 
   - Normalization (To do)
   - Regularization (To do: L2, Drop-out)
 
-### II. Convolutional Neural Network
+### II. Convolutional Neural Network (Partial)
   - Initialization of Parameters and Output
   - Convolutional Forward propagation
   - Pooling
