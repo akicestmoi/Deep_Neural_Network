@@ -18,7 +18,7 @@ For educational purposes, neither Tensorflow nor Keras (or the like) is used so 
   - Initialization of Parameters and Output
   - Convolutional Forward propagation
   - Pooling
-  - Backward propagation (To do)
+  - Backward propagation
   - Residual Network (To do)
   - Inception Network (To do)
   - You Only Look Once (To do)
